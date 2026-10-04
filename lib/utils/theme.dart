@@ -25,7 +25,7 @@ class AppTheme {
         const TextStyle(fontSize: 12),
       ),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: latamWhite,
       elevation: 2,
       shape: RoundedRectangleBorder(
