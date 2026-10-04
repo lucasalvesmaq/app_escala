@@ -68,8 +68,8 @@ dependencies:
 
 1. **Clone o repositório**
 ```bash
-git clone <repo-url>
-cd flutter_escala_voo
+git clone https://github.com/lucasalvesmaq/app_escala.git
+cd app_escala
 ```
 
 2. **Instale as dependências**
